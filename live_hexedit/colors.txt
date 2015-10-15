@@ -1,0 +1,72 @@
+################################################################################
+#    blackVenoM9 Theme Colors                                                  #
+#    by fichl - 07/2015 - v3.5.0                                               #
+#                                                                              #
+#    uses following schema                                                     #
+#    AARRGGBB-Code| Description |path|type|decimal Offset                      #
+#                                                                              #
+#    only change the values of the first column                                #
+#    with the AARRGGBB color code !!!                                          #
+#                                                                              #
+#    dont insert empty lines or empty spaces before the color values !!!       #
+#    dont use windows notepad !!!                                              #
+#                                                                              #
+#    unwanted edits can be deactivated by putting a #                          #
+#    at the beginning of that line                                             #
+#                                                                              #
+################################################################################
+############# Global Theme Colors ##############################################
+ffeb001a    | <---- Theme color                                            ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070388
+aaeb001a    | <---- Textselection opacity color                            ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070292
+ff070707    | <---- Main Background color                                  ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070660
+ff121212    | <---- Second Background color                                ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070628
+ff171717    | <---- Third Background color                                 ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2073092
+ffffffff    | <---- Light Primaryfont color                                ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070468
+fff2f2f2    | <---- Light Secondaryfont color                              ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070500
+68ffffff    | <---- Light Primaryfont disable color                        ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070484
+66b4b4b4    | <---- Light Secondaryfont disable color                      ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070740
+ffffffff    | <---- Dark Primaryfont color                                 ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070516
+fff2f2f2    | <---- Dark Secondaryfont color                               ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070548
+68ffffff    | <---- Dark Primaryfont disable color                         ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070532
+66b4b4b4    | <---- Dark Secondaryfont disable color                       ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070756
+ff373737    | <---- Light expand list color                                ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2072884
+ff373737    | <---- Dark expand list color                                 ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2072900
+33ffffff    | <---- List pressed dark color                                ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2073028
+33ffffff    | <---- List pressed light color                               ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2070772
+33ffffff    | <---- Grid pressed dark color                                ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2073044
+33ffffff    | <---- Grid pressed light color                               ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2073060
+40ffffff    | <---- Ripple material light color                            ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2073108
+40ffffff    | <---- Ripple material dark color                             ----|/sdcard/vrtheme/system/framework/framework-res-htc/framework-res-htc.apk/resources.arsc|color|2073124
+################################################################################
+############# NEQS #############################################################
+################################################################################
+ff171717    | <---- NEQS Tile Background color                             ----|/sdcard/vrtheme/system/priv-app/SystemUI/SystemUI.apk/resources.arsc|color|3268972
+################################################################################
+############# Settings colors ##################################################
+################################################################################
+ffeb001a    | <---- Theme accent color                                     ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17206888
+ffeb001a    | <---- Separatorfont color                                    ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17205704
+ffeb001a    | <---- Text selection color                                   ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17206856
+99eb001a    | <---- Text selection opacity color                           ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17206872
+ff070707    | <---- Main Background color                                  ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17204840
+ffffffff    | <---- Light Primaryfont color                                ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17205640
+fff2f2f2    | <---- Light Secondaryfont color                              ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17205672
+fff2f2f2    | <---- Tabfont color                                          ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17206840
+40ffffff    | <---- Ripple color                                           ----|/sdcard/vrtheme/system/priv-app/Settings/Settings.apk/resources.arsc|color|17206360
+################################################################################
+############# Personalize colors ###############################################
+################################################################################
+ff070707    | <---- Main Background color                                  ----|/sdcard/vrtheme/system/priv-app/HomePersonalize/HomePersonalize.apk/resources.arsc|color|688276
+ffffffff    | <---- Light Primaryfont color                                ----|/sdcard/vrtheme/system/priv-app/HomePersonalize/HomePersonalize.apk/resources.arsc|color|688084
+fff2f2f2    | <---- Light Secondaryfont color                              ----|/sdcard/vrtheme/system/priv-app/HomePersonalize/HomePersonalize.apk/resources.arsc|color|688116
+99ffffff    | <---- Light Primaryfont disable color                        ----|/sdcard/vrtheme/system/priv-app/HomePersonalize/HomePersonalize.apk/resources.arsc|color|688100
+ffeb001a    | <---- Separatorfont color                                    ----|/sdcard/vrtheme/system/priv-app/HomePersonalize/HomePersonalize.apk/resources.arsc|color|688196
+################################################################################
+############# Ambient Display ##################################################
+################################################################################
+3000     | <---- Notification duration in ms  (0 - 65535) default=3000     ----|/sdcard/vrtheme/system/priv-app/SystemUI/SystemUI.apk/resources.arsc|int|3286688
+900      | <---- Notification fadeIn in ms  (0 - 65535) default=900        ----|/sdcard/vrtheme/system/priv-app/SystemUI/SystemUI.apk/resources.arsc|int|3286624
+600      | <---- Notification fadeOut in ms  (0 - 65535) default=600       ----|/sdcard/vrtheme/system/priv-app/SystemUI/SystemUI.apk/resources.arsc|int|3286704
+#200     | <---- Notification delay in ms  (0 - 65535) default=200         ----|/sdcard/vrtheme/system/priv-app/SystemUI/SystemUI.apk/resources.arsc|int|3286656
+#222     | <---- Notification small icon alpha  (0 - 255) default=222      ----|/sdcard/vrtheme/system/priv-app/SystemUI/SystemUI.apk/resources.arsc|int|3286720
+# EOF ##########################################################################
